@@ -1,40 +1,66 @@
-import org.apache.logging.log4j.Logger;
+import org.junit.Test;
 
+import java.io.*;
+import java.util.ArrayList;
+import java.util.Iterator;
+import java.util.List;
 import java.util.Scanner;
+import java.util.logging.Logger;
+import java.util.stream.IntStream;
 
-public class GradingStudent {
+public class GradingStudent2 {
 
-    //private static Logger logger = Logger.getLogger(GradingStudent.class);
+    static Logger logger = Logger.getLogger(String.valueOf(GradingStudent.class));
 
-    static int[] gradingStudent(int[] grades) {
+    static List<Integer> gradingStudentList(List<Integer> grades){
 
-        for(int i=0 ; i<grades.length; i++){
+        /*for(Integer i : grades) {
+            int grade = grades.get(i);
+            if(grade >= 38) {
+                int multipleOf5 = 5 - (grade % 5) + grade;
+                if(multipleOf5 - grade < 3) {
+                    grade = multipleOf5;
+                }
+            }
+        }*/
+        for(int i =0 ; i < grades.size(); i++) {
 
-            if(grades[i] >= 38){
-
-                int test = 5 - (grades[i] % 5) + grades[i];
-                if(test - grades[i] < 3){
-                    grades[i] = test;
+            if(grades.get(i) >= 38) {
+                int multipleOf5 = 5 - (grades.get(i) % 5) + grades.get(i);
+                if(multipleOf5 - grades.get(i) < 3) {
+                    grades.set(i,multipleOf5);
                 }
             }
         }
         return grades;
     }
 
-    public static void main(String[] args) {
-        Scanner sc = new Scanner(System.in);
-        int num = sc.nextInt();
-        int[] grades = new int[num];
 
-        for(int i=0; i<num; i++){
-            grades[i] = sc.nextInt();
+    public static void main(String[] args) {
+        List<Integer> result = new ArrayList<>();
+        Scanner sc = new Scanner(System.in);
+        System.out.println(sc.hasNextInt());
+        int scLength = 0;
+
+        while(sc.hasNextInt()) {
+            int num = sc.nextInt();
+            scLength += num;
+
+            if(scLength == sc.nextInt(0)) {
+                break;
+            }
         }
 
-        int[] result = gradingStudent(grades);
+        List<Integer> grades = new ArrayList<>();
 
-        for(int j=0; j<result.length; j++) {
-     //       logger.info("", result[j]);
-            System.out.println(result[j]);
+        for(int i=0; i<grades.size(); i++){
+            grades.add(sc.nextInt());
+        }
+
+        result = gradingStudentList(grades);
+
+        for(Integer tmp : result) {
+
         }
     }
 }
