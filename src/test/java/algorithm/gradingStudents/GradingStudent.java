@@ -1,16 +1,10 @@
-import org.junit.Test;
+package algorithm.gradingStudents;
 
-import java.io.*;
 import java.util.ArrayList;
-import java.util.Iterator;
 import java.util.List;
 import java.util.Scanner;
-import java.util.logging.Logger;
-import java.util.stream.IntStream;
 
-public class GradingStudent2 {
-
-    static Logger logger = Logger.getLogger(String.valueOf(GradingStudent.class));
+public class GradingStudent {
 
     static List<Integer> gradingStudentList(List<Integer> grades){
 
@@ -23,12 +17,16 @@ public class GradingStudent2 {
                 }
             }
         }*/
+
+        List<Integer> result = new ArrayList<>();
+
         for(int i =0 ; i < grades.size(); i++) {
 
             if(grades.get(i) >= 38) {
                 int multipleOf5 = 5 - (grades.get(i) % 5) + grades.get(i);
                 if(multipleOf5 - grades.get(i) < 3) {
-                    grades.set(i,multipleOf5);
+                    //grades.add(i,multipleOf5);
+                    result.add(multipleOf5);
                 }
             }
         }
