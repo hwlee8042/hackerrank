@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="algorithm.DayOfTheProgrammer.DayOfTheProgrammerTest2" tests="1" skipped="0" failures="0" errors="0" timestamp="2020-01-16T09:29:47" hostname="DESKTOP-OC8LSNM" time="0.005">
+  <properties/>
+  <testcase name="DayOfTheProgrammerTest2" classname="algorithm.DayOfTheProgrammer.DayOfTheProgrammerTest2" time="0.005"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

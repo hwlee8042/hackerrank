@@ -2,45 +2,28 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="49c89de5-b915-4b68-ac30-235af4d27e8c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/resourceHashesCache.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/jarAnalysis.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/classes/java/main/algorithm/kangaroo/Difference.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/classes/java/main/algorithm/kangaroo/Kangaroo.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/classes/java/test/algorithm/gradingStudents/GradingStudent.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/classes/java/test/algorithm/gradingStudents/GradingStudentRefectoring.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/classes/java/test/algorithm/kangaroo/KangarooTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/reports/tests/test/classes/algorithm.kangaroo.KangarooTest.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/reports/tests/test/css/base-style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/reports/tests/test/css/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/reports/tests/test/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/reports/tests/test/js/report.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/reports/tests/test/packages/algorithm.kangaroo.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/test-results/test/TEST-algorithm.kangaroo.KangarooTest.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/test-results/test/binary/output.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/test-results/test/binary/output.bin.idx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/test-results/test/binary/results.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/algorithm/kangaroo/Difference.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/algorithm/kangaroo/Kangaroo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/algorithm/gradingStudents/GradingStudentRefectoring.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/algorithm/kangaroo/KangarooTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/algorithm/dayOfTheProgrammer/CalcOfRussiaDate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/algorithm/dayOfTheProgrammer/DayOfProgrammerTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/algorithm/dayOfTheProgrammer/DayOfProgrammerTestImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/algorithm/dayOfTheProgrammer/DayOfTheProgrammer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/algorithm/DayOfTheProgrammer/DayOfTheProgrammerTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/algorithm/DayOfTheProgrammer/DayOfTheProgrammerTest2.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/executionHistory/executionHistory.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/executionHistory/executionHistory.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/fileHashes.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/resourceHashesCache.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/resourceHashesCache.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/classAnalysis.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/classAnalysis.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/jarAnalysis.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/jarAnalysis.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/javaCompile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/javaCompile.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/taskHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/taskHistory.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/hackerrank.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/test/GradingStudent.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/libs/algorithm-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/build/libs/algorithm-1.0-SNAPSHOT.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/GradingStudent.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/algorithm/gradingStudents/GradingStudent.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/GradingStudent2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/classes/algorithm.kangaroo.KangarooTest.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/reports/tests/test/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/packages/algorithm.kangaroo.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/test-results/test/TEST-algorithm.kangaroo.KangarooTest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/test-results/test/binary/results.bin" beforeDir="false" afterPath="$PROJECT_DIR$/build/test-results/test/binary/results.bin" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -91,6 +74,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -109,20 +93,94 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../wochul/hackerrank" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="algorithm.dayOfTheProgrammer" />
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="Gradle.KangarooTest">
-    <configuration name="GradingStudent" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="algorithm.gradingStudents.GradingStudent" />
-      <module name="algorithm.test" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
+  <component name="RunManager" selected="Gradle.DayOfTheProgrammerTest2.DayOfTheProgrammerTest2">
+    <configuration name="DayOfTheProgrammerTest" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="--tests &quot;algorithm.DayOfTheProgrammer.DayOfTheProgrammerTest&quot;" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":cleanTest" />
+            <option value=":test" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="DayOfTheProgrammerTest2.DayOfTheProgrammerTest" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="--tests &quot;algorithm.DayOfTheProgrammer.DayOfTheProgrammerTest2.DayOfTheProgrammerTest&quot;" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":cleanTest" />
+            <option value=":test" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="DayOfTheProgrammerTest2.DayOfTheProgrammerTest2" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="--tests &quot;algorithm.DayOfTheProgrammer.DayOfTheProgrammerTest2.DayOfTheProgrammerTest2&quot;" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":cleanTest" />
+            <option value=":test" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="DayOfTheProgrammerTest.dayOfTheProgrammerTest" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="--tests &quot;algorithm.DayOfTheProgrammer.DayOfTheProgrammerTest.dayOfTheProgrammerTest&quot;" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":cleanTest" />
+            <option value=":test" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
+      <method v="2" />
     </configuration>
     <configuration name="KangarooTest" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
@@ -144,51 +202,13 @@
       <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
       <method v="2" />
     </configuration>
-    <configuration name="KangarooTest.kangarooTest" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
-      <ExternalSystemSettings>
-        <option name="executionName" />
-        <option name="externalProjectPath" value="$PROJECT_DIR$" />
-        <option name="externalSystemIdString" value="GRADLE" />
-        <option name="scriptParameters" value="--tests &quot;algorithm.kangaroo.KangarooTest.kangarooTest&quot;" />
-        <option name="taskDescriptions">
-          <list />
-        </option>
-        <option name="taskNames">
-          <list>
-            <option value=":cleanTest" />
-            <option value=":test" />
-          </list>
-        </option>
-        <option name="vmOptions" />
-      </ExternalSystemSettings>
-      <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
-      <method v="2" />
-    </configuration>
-    <configuration name="study [jar]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
-      <ExternalSystemSettings>
-        <option name="executionName" />
-        <option name="externalProjectPath" value="$PROJECT_DIR$" />
-        <option name="externalSystemIdString" value="GRADLE" />
-        <option name="scriptParameters" />
-        <option name="taskDescriptions">
-          <list />
-        </option>
-        <option name="taskNames">
-          <list>
-            <option value="jar" />
-          </list>
-        </option>
-        <option name="vmOptions" />
-      </ExternalSystemSettings>
-      <GradleScriptDebugEnabled>true</GradleScriptDebugEnabled>
-      <method v="2" />
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Gradle.DayOfTheProgrammerTest2.DayOfTheProgrammerTest2" />
+        <item itemvalue="Gradle.DayOfTheProgrammerTest2.DayOfTheProgrammerTest" />
+        <item itemvalue="Gradle.DayOfTheProgrammerTest.dayOfTheProgrammerTest" />
+        <item itemvalue="Gradle.DayOfTheProgrammerTest" />
         <item itemvalue="Gradle.KangarooTest" />
-        <item itemvalue="Gradle.KangarooTest.kangarooTest" />
-        <item itemvalue="Gradle.study [jar]" />
-        <item itemvalue="Application.GradingStudent" />
       </list>
     </recent_temporary>
   </component>
@@ -218,7 +238,10 @@
       <workItem from="1577872159766" duration="11308000" />
       <workItem from="1577936005632" duration="1091000" />
       <workItem from="1577960125304" duration="3743000" />
-      <workItem from="1578393459417" duration="8903000" />
+      <workItem from="1578393459417" duration="9111000" />
+      <workItem from="1578564075348" duration="4138000" />
+      <workItem from="1578919827066" duration="4303000" />
+      <workItem from="1579136319529" duration="7067000" />
     </task>
     <servers />
   </component>
@@ -242,34 +265,34 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="263" y="0" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1578406925983" />
-    <state x="549" y="168" key="FileChooserDialogImpl" timestamp="1578401816682">
+    <state x="549" y="168" key="FileChooserDialogImpl" timestamp="1578565580006">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="549" y="168" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1578401816682" />
-    <state width="1493" height="189" key="GridCell.Tab.0.bottom" timestamp="1578408675362">
+    <state x="549" y="168" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1578565580006" />
+    <state width="1493" height="189" key="GridCell.Tab.0.bottom" timestamp="1579166984810">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="189" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1578408675362" />
-    <state width="1493" height="189" key="GridCell.Tab.0.center" timestamp="1578408675361">
+    <state width="1493" height="189" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1579166984810" />
+    <state width="1493" height="189" key="GridCell.Tab.0.center" timestamp="1579166984809">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="189" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1578408675361" />
-    <state width="1493" height="189" key="GridCell.Tab.0.left" timestamp="1578408675361">
+    <state width="1493" height="189" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1579166984809" />
+    <state width="1493" height="189" key="GridCell.Tab.0.left" timestamp="1579166984809">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="189" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1578408675361" />
-    <state width="1493" height="189" key="GridCell.Tab.0.right" timestamp="1578408675362">
+    <state width="1493" height="189" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1579166984809" />
+    <state width="1493" height="189" key="GridCell.Tab.0.right" timestamp="1579166984809">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="189" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1578408675362" />
+    <state width="1493" height="189" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1579166984809" />
     <state x="2673" y="146" key="RollbackChangesDialog" timestamp="1577961048965">
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
     <state x="2673" y="146" key="RollbackChangesDialog/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1577961048965" />
-    <state x="439" y="237" key="com.intellij.ide.util.TipDialog" timestamp="1578393471231">
+    <state x="439" y="237" key="com.intellij.ide.util.TipDialog" timestamp="1579136374286">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="439" y="237" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1578393471231" />
+    <state x="439" y="237" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1579136374286" />
     <state x="380" y="28" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1577933569393">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
