@@ -1,5 +1,5 @@
 package algorithm.dayOfTheProgrammer;
 
-public interface DayOfProgrammerTest {
+public interface DayOfProgrammer {
     String solve(int year);
 }
