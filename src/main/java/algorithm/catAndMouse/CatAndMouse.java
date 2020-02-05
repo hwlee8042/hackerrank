@@ -5,7 +5,7 @@ If cat B catches the mouse first, print Cat B.
 If both cats reach the mouse at the same time, print `Mouse C` as the two cats fight and mouse escapes.
 */
 public class CatAndMouse {
-    public static String catAndMouse(int x, int y, int z) {
+    public String catAndMouse(int x, int y, int z) {
         String result = "";
         int betweenXZ = Math.abs(x-z);
         int betweenYZ = Math.abs(y-z);

@@ -1,8 +1,14 @@
 package algorithm.catAndAMouse;
 
 import algorithm.catAndMouse.CatAndMouse;
+import algorithm.catAndMouse.CatAndMouseImpl;
+import algorithm.catAndMouse.CatAndMouseInterface;
 import org.junit.Before;
 import org.junit.Test;
+
+import java.util.ArrayList;
+import java.util.Arrays;
+import java.util.List;
 
 import static org.hamcrest.CoreMatchers.is;
 import static org.hamcrest.MatcherAssert.assertThat;
@@ -13,6 +19,7 @@ import static org.hamcrest.MatcherAssert.assertThat;
 public class CatAndAMouseTest {
 
     private CatAndMouse catAndMouse;
+    CatAndMouseInterface catAndMouseInterface = new CatAndMouseImpl();
 
     @Before
     public void init() {
@@ -20,7 +27,7 @@ public class CatAndAMouseTest {
     }
 
     @Test
-    public void catAndAMouseTest() {
+    public void catAndAMouseTest1() {
         //validate
         int queryLine = 2;
         int x1 = 1;
@@ -38,5 +45,21 @@ public class CatAndAMouseTest {
         String expected2 = "Mouse C";
         String result2 = catAndMouse.catAndMouse(x2, y2, z2);
         assertThat(result2, is(expected2));
+    }
+
+    @Test
+    public void catAndAMouseTest2() {
+
+        //x,y,z
+        List<Integer> input1 = Arrays.asList(1, 2, 3);
+        List<Integer> input2 = Arrays.asList(1, 3, 2);
+        //assertThat
+        List<String> expected = Arrays.asList("Cat B", "Mouse C");
+
+        assertTest(expected, catAndMouseInterface.catAndMouseList(input1, input2));
+
+    }
+    private void assertTest(List<String> expected, List<String> result) {
+
     }
 }
