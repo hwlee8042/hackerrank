@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="algorithm.encryptionTest.EncryptionTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2020-02-13T03:43:57" hostname="DESKTOP-OC8LSNM" time="0.008">
-  <properties/>
-  <testcase name="encryptionTest03" classname="algorithm.encryptionTest.EncryptionTest" time="0.008"/>
-  <system-out><![CDATA[]]></system-out>
-  <system-err><![CDATA[]]></system-err>
-</testsuite>
